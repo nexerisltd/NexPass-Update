@@ -1,7 +1,17 @@
 [
   {
+    "version": "5.0.5",
+    "date": "2026-08-09",
+    "notes": "Fixed the app freezing on \"Opening installer...\" during in-app updates. Improved error messages for update/release-notes fetch failures."
+  },
+  {
     "version": "5.0.2",
+    "date": "2026-08-09",
+    "notes": "Categories tab is now functional (Login, Card, Mobile Banking, API Keys, Keystore, OAuth Client, Zip, Backup Codes) with per-category browsing. Added Profile section (avatar, name, bio, linked account). Added Settings > Updates (release notes, manual/auto update checks, configurable check frequency)."
+  },
+  {
+    "version": "5.0.1",
     "date": "2026-08-08",
-    "notes": "Biometric unlock, categories, sync/error-message fixes, external link handling, in-app update system, profile section added."
+    "notes": "Biometric unlock, hardware back-button handling, sign-in banner, external links now open in the system browser, favicon fallback for offline icons, export now uses a real save dialog, friendlier error messages, and the in-app update system itself."
   }
 ]
