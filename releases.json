@@ -2,6 +2,6 @@
   {
     "version": "5.0.2",
     "date": "2026-08-08",
-    "notes": "Biometric unlock, categories, sync/error-message fixes, external link handling, in-app update system."
+    "notes": "Biometric unlock, categories, sync/error-message fixes, external link handling, in-app update system, profile section added."
   }
 ]
