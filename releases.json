@@ -1,1 +1,7 @@
-notes: v.5.0.1
+[
+  {
+    "version": "5.0.1",
+    "date": "2026-08-08",
+    "notes": "Biometric unlock, categories, sync/error-message fixes, external link handling, in-app update system."
+  }
+]
