@@ -1,0 +1,5 @@
+{
+  "version": "6.0.1",
+  "changelog": "In-app updates: download progress, one-tap install, and a Delete APK option to free up storage. Auto-lock now locks instantly when the screen turns off, and no longer leaks vault content into the recent-apps preview. Faster app open with a proper loading state. Back button now navigates within the app (double-tap to exit). Sync now asks before using mobile data, and uses far fewer Firestore reads.",
+  "download_url": "https://github.com/nexerisltd/NexPass-Android/releases/download/v6.0.1/NexPass-v6.0.1.apk"
+}
