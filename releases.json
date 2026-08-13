@@ -1,7 +1,23 @@
 [
   {
+<<<<<<< HEAD
     "version": "6.0.1",
     "date": "2026-08-13",
     "notes": "In-app updates: download progress, one-tap install, and a Delete APK option to free up storage. Auto-lock now locks instantly when the screen turns off, and no longer leaks vault content into the recent-apps preview. Faster app open with a proper loading state. Back button now navigates within the app (double-tap to exit). Sync now asks before using mobile data, and uses far fewer Firestore reads."
+=======
+    "version": "5.0.5",
+    "date": "2026-08-09",
+    "notes": "Fixed the app freezing on \"Opening installer...\" during in-app updates. Improved error messages for update/release-notes fetch failures."
+  },
+  {
+    "version": "5.0.2",
+    "date": "2026-08-09",
+    "notes": "Categories tab is now functional (Login, Card, Mobile Banking, API Keys, Keystore, OAuth Client, Zip, Backup Codes) with per-category browsing. Added Profile section (avatar, name, bio, linked account). Added Settings > Updates (release notes, manual/auto update checks, configurable check frequency)."
+  },
+  {
+    "version": "5.0.1",
+    "date": "2026-08-08",
+    "notes": "Biometric unlock, hardware back-button handling, sign-in banner, external links now open in the system browser, favicon fallback for offline icons, export now uses a real save dialog, friendlier error messages, and the in-app update system itself."
+>>>>>>> 7f8d1f22e8173a63aa4848a77bfefde194031da5
   }
 ]
