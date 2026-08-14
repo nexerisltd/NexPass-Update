@@ -1,0 +1,5 @@
+{
+  "version": "6.0.1",
+  "changelog": "Initial Windows build on the shared v6 backend: Google sign-in + Firestore sync, full sidebar (Favorites, Cards, Secure Notes, Identities, Trash), Vault Status panel, and in-app updates (download progress, one-click install, Delete Installer File to free up space).",
+  "download_url": "https://github.com/nexerisltd/NexPass-Update/releases/download/v.6.0.1-win/NexPass-Desktop_v.6.0.1-setup.exe"
+}
