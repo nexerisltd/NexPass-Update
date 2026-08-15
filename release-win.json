@@ -1,7 +1,7 @@
 [
   {
     "version": "6.0.1",
-    "date": "2026-08-14",
-    "notes": "Initial Windows build on the shared v6 backend: Google sign-in + Firestore sync, full sidebar (Favorites, Cards, Secure Notes, Identities, Trash), Vault Status panel, and in-app updates (download progress, one-click install, Delete Installer File to free up space)."
+    "date": "2026-08-15",
+    "notes": "Desktop redesign built on the shared v6 backend: a left sidebar (Home, Favorites, Categories, Settings) with a Vault Status card and profile button, a list + detail split view on Home, and full-window Add/Edit/Profile screens instead of small popups. Fixed profile pictures not loading (avatars are now copied into NexPass's own app-data folder so the desktop webview can display them). Fixed auto-lock: Instant now uses the native window-focus signal instead of an unreliable browser event, and timed auto-lock is now based on mouse/keyboard idle time so it actually fires while the window stays open. Windows updates and release notes are now served from their own manifest, separate from Android's."
   }
 ]
