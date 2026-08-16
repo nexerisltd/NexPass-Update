@@ -1,0 +1,11 @@
+{
+  "version": "6.0.1",
+  "notes": "Desktop redesign, silent auto-update, and various fixes.",
+  "pub_date": "2026-08-16T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMFdDb3A0SG5GR3I2bm9wU2tYWjNFOFNHYU5YVmUzeUtjVXNmNFYvOWl4STNCMlp2NVJEeGVTNDBCVXpEWFZsSDZvdDZ0MXZIUnlzblNCd1E1b3pTbjREL1E5bzRNcmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODU4OTEyCWZpbGU6TmV4UGFzc182LjAuMV94NjQtc2V0dXAuZXhlCmNUQ2JncFNGUzRPV3VOaFVZdXBQOFFOcmNRR3libEl4eWF1OW1jKzI2a3IrNlRockhGZXlUUEw4emk5cFRZV3dLM3dUUTRqVENVSEhuVDdkelB0d0NRPT0K",
+      "url": "https://github.com/nexerisltd/NexPass-Update/releases/download/v.6.0.1-win/NexPass_6.0.1_x64-setup.exe"
+    }
+  }
+}
