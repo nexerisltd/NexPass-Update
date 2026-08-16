@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQzczZDMvSEl4UUh2RnNBZEZIcm9wdHYrbFNhZE9OVXZoMWVCOU5IVWhYdVNUdDNRK0VPQ2YwVTZRUGc3Y21uSHR5Qy80eXhxWmphUHBpSlNvaGJYYXpXNUo1UG1qY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODc5MjY1CWZpbGU6TmV4UGFzc182LjAuMV94NjQtc2V0dXAuZXhlCnlScXhwbnZoaDQweG81eW9rR0dZbEhDQ3pzWEEvMnl3bG4zU1h6ODNXSFdETDNvU0VzU3RsTTdnck5hMW5kUTJ3eDhJdmREN0JJQ1kvZ2s1VmRFL0RRPT0K",
-      "url": "https://github.com/nexerisltd/NexPass-Update/releases/download/v.6.0.1-win/NexPass_6.0.1_x64-setup.exe"
+      "url": "https://github.com/nexerisltd/NexPass-Update/releases/download/v.6.0.1/NexPass_6.0.1_x64-setup.exe"
     }
   }
 }
