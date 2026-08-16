@@ -1,6 +1,6 @@
 {
   "version": "6.0.2",
-  "notes": "Silent auto-update, desktop redesign, and bug fixes.",
+  "notes": "Silent auto-update, desktop redesign, and bug fixes, Authenticaty.",
   "pub_date": "2026-08-16T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
