@@ -1,5 +1,5 @@
 {
-  "version": "6.0.1",
+  "version": "6.0.3",
   "changelog": "Desktop redesign: sidebar navigation (Home, Favorites, Categories, Settings) with a Vault Status card, list + detail view on Home, and full-window Add/Edit/Profile screens. Fixed profile picture not loading on Windows, fixed Instant/idle-based auto-lock, and split update checking so Windows now gets its own release channel separate from Android.",
   "download_url": "https://github.com/nexerisltd/NexPass-Update/releases/download/v.6.0.1-win/NexPass-Desktop_v.6.0.1-setup.exe"
 }
